@@ -2,6 +2,7 @@
 个人账目管理系统
 
 ##Introduction
+
 PAMS:Personal Accounts Management System.
 
 I developed this project aimed to count my daily cost and warn myself how much I have paid this day/month/year. I hope it could help me learn to save my money.
