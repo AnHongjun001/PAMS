@@ -1,7 +1,7 @@
 # PAMS
 个人账目管理系统
 
-##Introduction
+## Introduction
 
 PAMS:Personal Accounts Management System.
 
